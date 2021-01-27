@@ -1,6 +1,7 @@
 # Sensor-Data-Analytics
 1. Prewitt edge detector: gradient filter és nonmaxima-suppression (NMS) Output is two images: 
-  a. gradient magnitute; 2. final result after NMS.
+  a. gradient magnitute; 
+  b. final result after NMS.
 2. Thresholding algorithm by Otsu Output: thresholded image and obtained threshold value.  
 3. Detection of circular object by edge detection and Hough transform for circles Input: 
   a. image containing circular objects, e.g., cells;
